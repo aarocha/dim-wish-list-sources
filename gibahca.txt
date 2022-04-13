@@ -2,7 +2,7 @@
 //notes:gibahca (PvP / M+KB / Controller):"Silicon Neuroma is the current Bite of the Fox alternative. Even with the snapshot / opening shot combo. The biggest factor is the addition of adept mods like adept handling or adept icarus to really bump up the feel.". Recommended MW - Handling.|tags:pvp,mkb,controller
 dimwishlist:item=3355385170&perks=1392496348,957782887,47981717
 dimwishlist:item=3658188704&perks=,1168162263,3047969693
-
+dimwishlist:item=2475355656&perks=3250034553,1483536627,3400784728,1771339417
 
 
 
