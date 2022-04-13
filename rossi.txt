@@ -1,1 +1,4 @@
-
+//Found Verdict (time lost)
+dimwishlist:item=631439337&perks=1047830412,3142289711,3161816588,47981717
+// Palindrome adept Teste
+dimwishlist:item=1481892490&perks=1467527085,1885400500,706527188,4049631843
